@@ -1,11 +1,11 @@
 {
-    "name": "mac_psychologist",
-    "short_name": "mac_psychologist",
+    "name": "МАК-Карты. Психолог",
+    "short_name": "МАК-Карты",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "МАК-Карты. Психолог",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
