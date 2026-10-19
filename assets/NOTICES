@@ -24240,6 +24240,8 @@ SPDX-License-Identifier: Apache-2.0
 --------------------------------------------------------------------------------
 mac_body_limits_deck
 mac_card_deck
+mac_faces
+mac_inner_child_deck
 mac_male_deck
 mac_money_career_deck
 mac_shadow_deck
